@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<answers userid="4">
+    <categories>
+        <category name="binquestion">
+            <answer questionid="1" value="1"/>
+        </category>
+        <category name="grade">
+            <answer questionid="1" value="3"/>
+            <answer questionid="2" value="5"/>
+            <answer questionid="3" value="6"/>
+        </category>
+        <category name="character">
+            <answer questionid="10" value="1"/>
+            <answer questionid="11" value="2"/>
+            <answer questionid="12" value="1"/>
+            <answer questionid="15" value="1"/>
+            <answer questionid="14" value="2"/>
+            <answer questionid="13" value="2"/>
+            <answer questionid="16" value="1"/>
+            <answer questionid="17" value="1"/>
+        </category>
+        <category name="team">
+            <answer questionid="14" value="2"/>
+            <answer questionid="15" value="1"/>
+            <answer questionid="16" value="2"/>
+        </category>
+        <category name="honesty">
+            <answer questionid="1" value="1"/>
+        </category>
+    </categories>
+</answers>

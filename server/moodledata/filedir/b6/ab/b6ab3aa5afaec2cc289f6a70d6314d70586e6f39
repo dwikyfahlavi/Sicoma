@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groupformations>
+    <groupformation id="1" course="2" name="test grup">
+        <status>
+            <consent value="1"/>
+            <participantcode value="BAOM03"/>
+            <completed value="0" timestamp="1672764088"/>
+            <answers count="18"/>
+            <filtered value="0"/>
+            <group id="" moodlegroupid="" name=""/>
+        </status>
+        <answers>
+            <category name="knowledge">
+                <answer questionid="1" value="63"/>
+                <answer questionid="2" value="37"/>
+            </category>
+            <category name="binquestion">
+                <answer questionid="1" value="1"/>
+            </category>
+            <category name="grade">
+                <answer questionid="1" value="3"/>
+                <answer questionid="2" value="5"/>
+                <answer questionid="3" value="6"/>
+            </category>
+            <category name="character">
+                <answer questionid="10" value="1"/>
+                <answer questionid="11" value="2"/>
+                <answer questionid="12" value="1"/>
+                <answer questionid="15" value="1"/>
+                <answer questionid="14" value="2"/>
+                <answer questionid="13" value="2"/>
+                <answer questionid="16" value="1"/>
+                <answer questionid="17" value="1"/>
+            </category>
+            <category name="team">
+                <answer questionid="14" value="2"/>
+                <answer questionid="15" value="1"/>
+                <answer questionid="16" value="2"/>
+            </category>
+            <category name="honesty">
+                <answer questionid="1" value="1"/>
+            </category>
+        </answers>
+        <criteria>
+            <criterion name="big5_extraversion" dimension="0" value="0.35000000"/>
+            <criterion name="big5_conscientiousness" dimension="0" value="1.00000000"/>
+            <criterion name="fam_interest" dimension="0" value="-0.20000000"/>
+            <criterion name="fam_successprobability" dimension="0" value="-0.20000000"/>
+            <criterion name="team_teamorientation" dimension="0" value="0.13333333"/>
+            <criterion name="srl_one" dimension="0" value="-0.20000000"/>
+            <criterion name="general_language" dimension="0" value="1.00000000"/>
+            <criterion name="general_language" dimension="1" value="0.00000000"/>
+            <criterion name="grade_one" dimension="0" value="0.04666667"/>
+            <criterion name="knowledge_one" dimension="0" value="0.50000000"/>
+            <criterion name="knowledge_two" dimension="0" value="0.63000000"/>
+            <criterion name="knowledge_two" dimension="1" value="0.37000000"/>
+            <criterion name="binquestion_singlechoice" dimension="0" value="0.60000000"/>
+        </criteria>
+    </groupformation>
+</groupformations>

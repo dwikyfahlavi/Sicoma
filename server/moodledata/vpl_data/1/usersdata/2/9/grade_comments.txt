@@ -1,0 +1,15 @@
+-Test 1: print sebuah hello word" (-100.000)
+Incorrect program output
+ --- Input ---
+
+ --- Program output ---
+>hello
+
+ --- Expected output (text)---
+>  hello world"
+
+-Summary of tests
+>+------------------------------+
+>|  1  test run/ 0 tests passed |
+>+------------------------------+
+
